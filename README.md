@@ -139,7 +139,7 @@ Recordings/
 ---
 
 ## Future Improvements
-
+- PyQt5 GUI
 - IP Camera (RTSP) Support
 - Multi-Camera Support
 - Face Recognition
