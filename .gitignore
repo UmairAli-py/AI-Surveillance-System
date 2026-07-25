@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+Snapshots/
+Recordings/
+
+.vscode/
+.idea/
+
+venv/
+.venv/
+
+*.log
+
+yolov8n.pt
