@@ -147,7 +147,6 @@ Recordings/
 - Telegram Notifications
 - Intruder Detection
 - Database Logging
-- PyQt5 GUI
 - Recorded Video Analysis
 - GPU (CUDA) Acceleration
 
